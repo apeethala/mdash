@@ -35,7 +35,7 @@ public class login extends HttpServlet {
      
      if(uname.equals(pass))
      {
-         out.println(" valid user");
+         out.println(" user valid");
      }
      else
      {
