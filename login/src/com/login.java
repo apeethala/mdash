@@ -39,7 +39,7 @@ public class login extends HttpServlet {
      }
      else
      {
-    	 out.println(" invalid user");
+    	 out.println("invalid user");
      }
  
             }
