@@ -9,7 +9,7 @@
 <body>
 <body>
       <form action="login" method="get" >
-Username:<input type="text" name="user"><br>
+UserName:<input type="text" name="user"><br>
 Password:<input type="password" name="pass"><br>
 <input type="submit" name="submit" value="login">
       </form>
