@@ -9,8 +9,8 @@
 <body>
 <body>
       <form action="login" method="get" >
-username<input type="text" name="user"><br>
-password<input type="password" name="pass"><br>
+Username:<input type="text" name="user"><br>
+Password:<input type="password" name="pass"><br>
 <input type="submit" name="submit" value="login">
       </form>
     </body>
