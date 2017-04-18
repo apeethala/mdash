@@ -37,6 +37,10 @@ public class login extends HttpServlet {
      {
          out.println(" valid user");
      }
+     else
+     {
+    	 out.println(" invalid user");
+     }
  
             }
 
